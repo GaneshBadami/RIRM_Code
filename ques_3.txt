@@ -1,0 +1,7 @@
+A. Reverse-i-search is used to find all the past commands entered in the terminal.
+
+B. We have to use -a option to list all the directories including the hidden ones.
+
+C. I have used Fedora OS in the past, I have somewhat the knowledge of how to work with Linux operating systems.
+
+D. Yes, I have used Apache Tomcat server to host the maven web applications.
